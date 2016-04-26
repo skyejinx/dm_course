@@ -1,0 +1,6 @@
+import random
+
+#this will sample a list of stops
+def sampler(stops_list): 
+	random
+
